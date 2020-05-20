@@ -3,7 +3,6 @@
   "type": "library",
   "description": "Test TASK Symphony module CRUD and REST API 2020/05/21",
   "keywords": ["symphony","crud"],
-  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
       {
@@ -24,13 +23,12 @@
             "belenkovs\\testtask2test": "test/belenkov/testtask2test"
         }
     },
-  
+    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "1.0.0-dev"
         }
     }
-  
   
   
 }
