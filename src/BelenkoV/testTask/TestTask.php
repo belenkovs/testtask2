@@ -5,7 +5,7 @@
  * time 23:00.
  */
 
-namespace belenkov\testTask
+namespace belenkov\testTask2
 
 /**
  * Class TestTask
