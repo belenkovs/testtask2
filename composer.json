@@ -3,6 +3,7 @@
   "type": "library",
   "description": "Test TASK Symphony module CRUD and REST API 2020/05/21",
   "keywords": ["symphony","crud"],
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
       {
