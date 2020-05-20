@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-        "belenkov\\testtask2": "src/belenkov/testtask2"
+        "belenkovs\\testtask2": "src/belenkov/testtask2"
       }
     },
     "minimum-stability": "dev",
