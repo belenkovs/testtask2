@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-        "belenkovs\\testTask": "src/belenkov/testtask2"
+        "belenkovs\\testtask2": "src/belenkov/testtask2"
       }
     }
   
